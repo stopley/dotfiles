@@ -1,7 +1,7 @@
 #!/bin/bash -eu
 
-GIT_REPO='ssh://git@github.com:carej/dotfiles.git'
-GIT_REPO_RO='https://github.com/carej/dotfiles.git'
+GIT_REPO='ssh://git@github.com:stopley/dotfiles.git'
+GIT_REPO_RO='https://github.com/stopley/dotfiles.git'
 IGNORED='install.bash|localtest.bash|\.git$|\.git/|.gitignore|README|README.md'
 
 DEBUG=false

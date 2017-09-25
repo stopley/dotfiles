@@ -48,8 +48,8 @@ fi
 
 # set nano as the editor if it's available
 #
-if command -v nano >/dev/null 2>&1; then
-
-  export EDITOR=nano
-  alias pico='nano'
-fi
+#if command -v nano >/dev/null 2>&1; then
+#
+#  export EDITOR=nano
+#  alias pico='nano'
+#fi
